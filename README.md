@@ -220,8 +220,8 @@ This project is released under the **MIT License**.
 ## 👨‍🎓 Contact & Citation
 
 **Author**: Ippili Yaswanth Kumar  
-**Email**: (add your email)  
-**Institution**: IIIT Bhubaneswar, Department of Computer Science & Engineering
+**Email**: b122053@iiit-bh.ac.in
+**Institution**: IIIT Bhubaneswar, Department of Computer Science & Engineering(CSE)
 
 If you use this work in your research, please cite the accompanying B.Tech project report:
 
